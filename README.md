@@ -1,1 +1,1 @@
-# Lucky7
+Lucky7
